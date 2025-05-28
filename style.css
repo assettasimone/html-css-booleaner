@@ -11,7 +11,8 @@ header {
     padding: 60px 0 15px 0px;
 }
 
-main {
+main,
+footer {
     padding: 5px;
 }
 
@@ -66,3 +67,26 @@ thead {
 }
 
 /* /Article body */
+
+/* footer */
+.may-like h3 {
+    color: #7d7d7d;
+}
+
+.may-like-items {
+    background-repeat: no-repeat;
+    height: 200px;
+    color: #fff;
+    padding: 10px;
+    font-size: 1.4rem;
+}
+
+#items-1 {
+    background-image: url(./img/monitor.jpg);
+}
+
+#items-2 {
+    background-image: url(./img/graph.jpg);
+}
+
+/* /footer */
