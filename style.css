@@ -1,0 +1,12 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lightblue;
+    background-image: url(./img/pattern.png);
+    background-size: contain;
+    padding: 60px 0 15px 0px;
+}
