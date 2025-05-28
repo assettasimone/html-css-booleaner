@@ -25,6 +25,19 @@ footer {
     margin-bottom: 0px;
 }
 
+.article-meta {
+    color: #7d7d7d;
+}
+
+.article-meta a {
+    text-decoration: none;
+    color: #1ca9e8;
+}
+
+.article-meta span {
+    font-size: 12px;
+}
+
 /* /Article info */
 
 /* Article media */
@@ -75,10 +88,12 @@ thead {
 
 .may-like-items {
     background-repeat: no-repeat;
-    height: 200px;
+    height: 180px;
+    width: 180px;
     color: #fff;
     padding: 10px;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
 }
 
 #items-1 {
